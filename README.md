@@ -1,7 +1,7 @@
 <div align="center">
   
-# 🚀 Olá! Eu sou Bruno Soares
-### Frontend Developer & UI/UX Enthusiast
+# 🚀 Olá! Eu sou Bruno Souza
+### Frontend Developer & UI/UX 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Vue+%7C+Angular;UI%2FUX+Designer;Always+learning+new+things" alt="Typing SVG" />
 
