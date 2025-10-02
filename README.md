@@ -1,7 +1,7 @@
 <div align="center">
   
-# 🚀 Olá! Eu sou Bruno Souza
-### Frontend Developer & UI/UX 
+# 🚀 Olá! Eu sou Bruno Souza 
+### Frontend Developer & UI/UX Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Vue+%7C+Angular;UI%2FUX+Designer;Always+learning+new+things" alt="Typing SVG" />
 
@@ -42,7 +42,7 @@
 <td width="50%">
 
 ### 🌟 **E-commerce Platform**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brun05ouza&repo=NOME_DO_REPO&theme=tokyonight&hide_border=true)](https://github.com/SEU_USERNAME/NOME_DO_REPO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brun05ouza&repo=ecommerce-project&theme=tokyonight&hide_border=true)](https://github.com/Brun05ouza/ecommerce-project)
 
 **Tech:** React, TypeScript, Styled Components
 - 🛒 Carrinho dinâmico
@@ -53,7 +53,7 @@
 <td width="50%">
 
 ### 🎯 **Dashboard Analytics**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brun05ouza&repo=NOME_DO_REPO2&theme=tokyonight&hide_border=true)](https://github.com/SEU_USERNAME/NOME_DO_REPO2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brun05ouza&repo=dashboard-analytics&theme=tokyonight&hide_border=true)](https://github.com/Brun05ouza/dashboard-analytics)
 
 **Tech:** Vue.js, Chart.js, Vuetify
 - 📈 Gráficos interativos
@@ -136,7 +136,6 @@
     </linearGradient>
   </defs>
   
-  <!-- Corpo da cobra -->
   <g>
     <circle r="8" fill="url(#snakeGradient)">
       <animateMotion dur="4s" repeatCount="indefinite" path="M50,100 L750,100 L50,100 Z" />
@@ -164,16 +163,16 @@
 
 ## 📫 **Vamos Conectar?**
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<a href="https://linkedin.com/in/bruno-souza">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/SEU_TWITTER">
+<a href="https://twitter.com/brun05ouza">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="mailto:SEU_EMAIL@gmail.com">
+<a href="mailto:bruno@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://SEU_PORTFOLIO.com">
+<a href="https://brunosouza.dev">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 
