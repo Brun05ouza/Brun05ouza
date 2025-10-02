@@ -115,26 +115,6 @@
 
 <div align="center">
 
-## 🏆 **GitHub Trophies**
-
-<img src="https://github-profile-trophy.vercel.app/?username=Brun05ouza&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 **Snake Animation**
-
-![Snake animation](https://github.com/Brun05ouza/Brun05ouza/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
 ## 📫 **Vamos Conectar?**
 
 <a href="https://linkedin.com/in/bruno-souza">
