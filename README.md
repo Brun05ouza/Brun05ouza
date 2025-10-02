@@ -125,9 +125,36 @@
 
 <div align="center">
 
-## 🐍 **Contribution Snake**
+## 🐍 **Snake Animation**
 
-<img src="https://raw.githubusercontent.com/Brun05ouza/Brun05ouza/output/github-contribution-grid-snake-dark.svg" />
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="snakeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00ff41;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#00d4aa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0099ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Corpo da cobra -->
+  <g>
+    <circle r="8" fill="url(#snakeGradient)">
+      <animateMotion dur="4s" repeatCount="indefinite" path="M50,100 L750,100 L50,100 Z" />
+    </circle>
+    <circle r="7" fill="url(#snakeGradient)" opacity="0.8">
+      <animateMotion dur="4s" repeatCount="indefinite" begin="0.1s" path="M50,100 L750,100 L50,100 Z" />
+    </circle>
+    <circle r="6" fill="url(#snakeGradient)" opacity="0.7">
+      <animateMotion dur="4s" repeatCount="indefinite" begin="0.2s" path="M50,100 L750,100 L50,100 Z" />
+    </circle>
+    <circle r="5" fill="url(#snakeGradient)" opacity="0.6">
+      <animateMotion dur="4s" repeatCount="indefinite" begin="0.3s" path="M50,100 L750,100 L50,100 Z" />
+    </circle>
+    <circle r="4" fill="url(#snakeGradient)" opacity="0.5">
+      <animateMotion dur="4s" repeatCount="indefinite" begin="0.4s" path="M50,100 L750,100 L50,100 Z" />
+    </circle>
+  </g>
+</svg>
 
 </div>
 
