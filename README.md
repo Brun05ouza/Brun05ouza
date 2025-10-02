@@ -22,8 +22,8 @@ Meu foco é transformar ideias em experiências digitais incríveis com **React,
 
 ### 📈 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Brun05ouza&show_icons=true&theme=radical" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brun05ouza&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ### 🎯 Meus Objetivos
