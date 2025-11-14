@@ -41,24 +41,27 @@
 <tr>
 <td width="50%">
 
-### 🌟 **E-commerce Platform**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brun05ouza&repo=ecommerce-project&theme=tokyonight&hide_border=true)](https://github.com/Brun05ouza/ecommerce-project)
+### 🌎 **EcoSphere - Plataforma de Sustentabilidade**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brun05ouza&repo=Tcc-EcoSphere&theme=tokyonight&hide_border=true)](https://github.com/Brun05ouza/Tcc-EcoSphere)
 
-**Tech:** React, TypeScript, Styled Components
-- 🛒 Carrinho dinâmico
-- 💳 Integração de pagamento
-- 📱 Design responsivo
+**Tech:** React, Node.js, Tailwind, Express, Firebase, IA (OpenAI/Gemini)
+- ♻️ Classificação de resíduos com IA
+- 🌤️ Monitoramento ambiental em tempo real
+- 🏆 Gamificação (EcoPoints, badges, ranking)
+- 🤖 ChatBot inteligente integrado
+- 🔒 Autenticação Google OAuth
+- 📊 Dashboard interativo de estatísticas
 
-</td>
-<td width="50%">
+### 💻 **Portfolio Moderno**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brun05ouza&repo=portifolio-fixed&theme=tokyonight&hide_border=true)](https://github.com/Brun05ouza/portifolio-fixed)
 
-### 🎯 **Dashboard Analytics**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brun05ouza&repo=dashboard-analytics&theme=tokyonight&hide_border=true)](https://github.com/Brun05ouza/dashboard-analytics)
-
-**Tech:** Vue.js, Chart.js, Vuetify
-- 📈 Gráficos interativos
-- 🔄 Dados em tempo real
-- 🎨 UI moderna
+**Tech:** React, Vite, Tailwind, Framer Motion
+- 🎨 Visual moderno e responsivo
+- 📊 Dashboard de analytics em tempo real
+- 🌚 Sistema de temas Dark/Light
+- 💻 Editor de código interativo e timeline profissional
+- 🏆 Certificações e radar de skills
+- 📈 Integração com estatísticas do GitHub
 
 </td>
 </tr>
