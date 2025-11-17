@@ -3,8 +3,7 @@
 # 🚀 Olá! Eu sou Bruno Souza 
 ### Frontend Developer & UI/UX Enthusiast
 
-Atualmente estou graduando a faculdade de Ciência da Computação e minha área de dominância, seria a área de Desenvivolvimento Web, busco essa área como minha profissão, sou apaixonado por Programação e adora um café rsrs
-Bora programar ? 
+Atualmente, estou cursando Ciência da Computação e minha principal área de atuação é o Desenvolvimento Web. Busco consolidar minha carreira nessa área, pois sou apaixonado por programação — e também por um bom café! ☕ Bora programar?
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Vue+%7C+Angular;UI%2FUX+Designer;Always+learning+new+things" alt="Typing SVG" />
 
 </div>
