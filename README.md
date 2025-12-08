@@ -29,7 +29,6 @@ Atualmente, estou cursando Ciência da Computação e minha principal área de a
 <td width="50%">
 
 ### 🌎 **EcoSphere - Plataforma de Sustentabilidade**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brun05ouza&repo=Tcc-EcoSphere&theme=tokyonight&hide_border=true)](https://github.com/Brun05ouza/Tcc-EcoSphere)
 
 **Tech:** React, Node.js, Tailwind, Express, Firebase, IA (OpenAI/Gemini)
 - ♻️ Classificação de resíduos com IA
@@ -40,7 +39,6 @@ Atualmente, estou cursando Ciência da Computação e minha principal área de a
 - 📊 Dashboard interativo de estatísticas
 
 ### 💻 **Portfolio Moderno**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brun05ouza&repo=portifolio-fixed&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Brun05ouza/portifolio-fixed)
 
 **Tech:** React, Vite, Tailwind, Framer Motion
 - 🎨 Visual moderno e responsivo
