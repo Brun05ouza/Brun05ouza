@@ -14,7 +14,7 @@ Atualmente, estou cursando Ciência da Computação e minha principal área de a
 
 ## 🛠️ **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nodejs,sass,tailwind,figma,photoshop&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,tailwind,figma,photoshop&theme=dark" />
 
 </div>
 
