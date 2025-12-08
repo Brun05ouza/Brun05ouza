@@ -26,7 +26,7 @@ Atualmente, estou cursando Ciência da Computação e minha principal área de a
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Brun05ouza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Brun05ouza&theme=tokyonight&hide_border=true" />
-
+<br>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brun05ouza&layout=compact&theme=tokyonight&hide_border=true" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brun05ouza&theme=tokyo-night&hide_border=true&area=true" />
 
