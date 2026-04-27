@@ -100,6 +100,24 @@ Atualmente, estou cursando Ciência da Computação e minha principal área de a
 
 <div align="center">
 
+## 🐍 **Contribution Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brun05ouza/Brun05ouza/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brun05ouza/Brun05ouza/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Brun05ouza/Brun05ouza/output/github-snake.svg" />
+</picture>
+
+<br/>
+
+<img alt="ocean snake" src="https://raw.githubusercontent.com/Brun05ouza/Brun05ouza/output/ocean.gif" />
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📫 **Vamos Conectar?**
 
 <a href="https://linkedin.com/in/bruno-souza">
@@ -138,7 +156,3 @@ Atualmente, estou cursando Ciência da Computação e minha principal área de a
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/brunosouza)
 
 </div>
-
-
-
-
