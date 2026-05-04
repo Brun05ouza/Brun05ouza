@@ -102,7 +102,7 @@ Atualmente, estou cursando Ciência da Computação e minha principal área de a
 
 ## 🐍 **Contribution Snake**
 
-<img src="https://raw.githubusercontent.com/Brun05ouza/Brun05ouza/output/github-snake-dark.svg">
+<img alt="github-snake-dark" src="https://raw.githubusercontent.com/Brun05ouza/Brun05ouza/output/github-snake-dark.svg">
 
 </div>
 
