@@ -7,16 +7,17 @@
 </picture>
 </a>
 
-[Portfólio](https://brunosouza.dev.br) · [LinkedIn](https://www.linkedin.com/in/bruno-soares-souza/) · [E-mail](mailto:brunosouzagithub2003@gmail.com)
+<p align="center">
+  <a href="https://brunosouza.dev.br"><img src="assets/links/portfolio.svg" width="156" height="52" alt="Visitar meu portfólio"></a>
+  <a href="https://github.com/Brun05ouza"><img src="assets/links/github.svg" width="156" height="52" alt="Meu perfil no GitHub"></a>
+  <a href="https://www.linkedin.com/in/bruno-soares-souza/"><img src="assets/links/linkedin.svg" width="156" height="52" alt="Conectar no LinkedIn"></a>
+  <a href="mailto:brunosouzagithub2003@gmail.com"><img src="assets/links/email.svg" width="156" height="52" alt="Conversar por e-mail"></a>
+</p>
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/about-mobile.svg">
-  <img src="assets/about.svg" width="100%" alt="About — sobre Bruno Souza">
+  <img src="assets/about.svg" width="100%" alt="Sou desenvolvedor Full Stack e gosto de transformar ideias em experiências digitais. Trabalho com desenvolvimento web, sistemas, interfaces interativas e soluções que unem código, design e movimento. Rio de Janeiro, Brasil. Ciência da Computação — UNIFESO.">
 </picture>
-
-Sou desenvolvedor Full Stack e gosto de transformar ideias em experiências digitais. Trabalho com desenvolvimento web, sistemas, interfaces interativas e soluções que unem código, design e movimento.
-
-**Rio de Janeiro, Brasil** · Ciência da Computação — UNIFESO
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/skills-mobile.svg">
@@ -80,11 +81,19 @@ Sou desenvolvedor Full Stack e gosto de transformar ideias em experiências digi
   <img src="assets/github-stats.svg" width="100%" alt="Estatísticas reais do GitHub: repositórios públicos, estrelas, contribuições e linguagens.">
 </picture>
 
-[Explorar meus repositórios](https://github.com/Brun05ouza?tab=repositories) · [Como as estatísticas são calculadas](docs/maintenance.md#estatísticas)
+<p align="center">
+  <a href="https://github.com/Brun05ouza?tab=repositories"><img src="assets/links/repositories.svg" width="156" height="52" alt="Explorar meus repositórios"></a>
+  <a href="docs/maintenance.md#estatísticas"><img src="assets/links/statistics.svg" width="156" height="52" alt="Como as estatísticas são calculadas"></a>
+</p>
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/contact-mobile.svg">
   <img src="assets/contact.svg" width="100%" alt="Continue? Tem uma ideia interessante? Vamos transformar isso em algo real.">
 </picture>
 
-[Portfólio](https://brunosouza.dev.br) · [GitHub](https://github.com/Brun05ouza) · [LinkedIn](https://www.linkedin.com/in/bruno-soares-souza/) · [E-mail](mailto:brunosouzagithub2003@gmail.com)
+<p align="center">
+  <a href="https://brunosouza.dev.br"><img src="assets/links/portfolio.svg" width="156" height="52" alt="Visitar meu portfólio"></a>
+  <a href="https://github.com/Brun05ouza"><img src="assets/links/github.svg" width="156" height="52" alt="Meu perfil no GitHub"></a>
+  <a href="https://www.linkedin.com/in/bruno-soares-souza/"><img src="assets/links/linkedin.svg" width="156" height="52" alt="Conectar no LinkedIn"></a>
+  <a href="mailto:brunosouzagithub2003@gmail.com"><img src="assets/links/email.svg" width="156" height="52" alt="Conversar por e-mail"></a>
+</p>
