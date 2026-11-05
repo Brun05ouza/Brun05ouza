@@ -1,0 +1,24 @@
+{
+  "username": "Brun05ouza",
+  "name": "Bruno Souza",
+  "headline": "Creative Developer • Full Stack • UI & Motion",
+  "location": "Rio de Janeiro, Brasil",
+  "education": "Ciência da Computação — UNIFESO",
+  "portfolio": "https://brunosouza.dev.br",
+  "linkedin": "https://www.linkedin.com/in/bruno-soares-souza/",
+  "email": "brunosouzagithub2003@gmail.com",
+  "skills": {
+    "Frontend": ["Astro", "React", "Next.js", "TypeScript", "Tailwind", "SCSS"],
+    "Backend & Data": ["Node.js", "Express", "Supabase", "Neon Postgres"],
+    "Motion & Creative": ["GSAP", "Three.js", "Canvas", "Experiências interativas"],
+    "Mobile & AI": ["Flutter", "Dart", "Kotlin", "OpenAI", "TensorFlow.js"]
+  },
+  "projects": [
+    {"name": "Portfólio Universo", "url": "https://brunosouza.dev.br", "description": "Experiência interativa com narrativa espacial, animações e elementos 3D.", "technologies": ["Astro", "TypeScript", "Three.js", "GSAP"]},
+    {"name": "Gênesis Empreendimentos", "url": "https://genesisempreendimentos.com.br", "description": "Ecossistema de sites, landing pages, conteúdo e captação de leads."},
+    {"name": "LimeAg", "url": "https://limeag.com.br", "description": "Projeto web comercial com foco em interface e experiência digital."},
+    {"name": "Genésio Game", "url": "https://genesio.genesisapps.com.br", "description": "Jogo de plataforma 2D com identidade própria e temática de empreendimentos."},
+    {"name": "Karina Sarte", "url": "https://karinasarte.com.br", "description": "Site profissional com foco em identidade visual e experiência do usuário."},
+    {"name": "CaptaFlow", "url": "https://github.com/Brun05ouza/captaflow", "description": "CRM de captação e gestão comercial com pipeline, histórico e demonstrações ao vivo.", "personal": true, "technologies": ["Next.js", "React", "TypeScript", "Neon Postgres"]}
+  ]
+}

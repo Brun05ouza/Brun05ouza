@@ -1,0 +1,49 @@
+name: Update profile statistics
+
+on:
+  schedule:
+    - cron: '23 9 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'profile.json'
+      - '.github/workflows/profile-stats.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-statistics
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.repository == 'Brun05ouza/Brun05ouza'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate original assets
+        run: python scripts/generate-assets.py
+      - name: Fetch real statistics
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/update-stats.py
+      - name: Validate assets and links
+        run: python scripts/validate.py
+      - name: Commit updated statistics
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/github-data.json assets/github-stats.svg assets/github-stats-mobile.svg
+          if git diff --cached --quiet; then
+            echo 'Statistics are already current.'
+            exit 0
+          fi
+          git commit -m 'chore: update GitHub exploration log'
+          git push
