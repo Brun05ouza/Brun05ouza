@@ -38,6 +38,6 @@ As animações usam CSS dentro dos SVGs: caminhada com passos discretos, respira
 
 O README usa `<picture>` para versões de celular, `alt` com conteúdo significativo e links HTML externos aos SVGs. Links dentro de um SVG carregado como imagem não são interativos no README. Os títulos pixelados são paths; o texto corrido usa fontes de sistema.
 
-A apresentação, localização e formação são compostas dentro dos SVGs de ABOUT, com quebras próprias para desktop e celular. O texto completo também permanece no `alt`. As navegações usam botões SVG de 156 × 52 px em âncoras HTML, centralizados e com quebra natural em duas colunas no celular. Assim, cada destino continua clicável sem depender de links internos a SVGs.
+A apresentação, localização e formação são compostas dentro dos SVGs de ABOUT, com quebras próprias para desktop e celular. O texto completo também permanece no `alt`. As navegações usam botões SVG de 136 × 48 px em âncoras HTML, centralizados e com quebra natural em duas colunas no celular ou uma coluna em telas muito estreitas. Assim, cada destino continua clicável sem depender de links internos a SVGs.
 
 Não há controle pelo scroll nem sincronização garantida entre imagens independentes. A posição do astronauta e o caminho pontilhado constroem a sequência narrativa.

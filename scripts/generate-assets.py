@@ -208,11 +208,11 @@ def buttons():
     for name, label in [("portfolio", "PORTFOLIO"), ("github", "GITHUB"),
                         ("linkedin", "LINKEDIN"), ("email", "E-MAIL"),
                         ("repositories", "REPOS"), ("statistics", "DADOS")]:
-        w, h, unit = 156, 52, 1.8
-        content = (f'<path d="M4 1h148v3h3v44h-3v3H4v-3H1V4h3z" '
+        w, h, unit = 136, 48, 1.8
+        content = (f'<path d="M4 1h{w-8}v3h3v{h-8}h-3v3H4v-3H1V4h3z" '
                    f'fill="{BG}" stroke="{LINE}" stroke-width="2" shape-rendering="crispEdges"/>')
         label_w = (len(label) * 6 - 1) * unit
-        content += pixel((w - label_w) / 2, 20, label, unit, ICE)
+        content += pixel((w - label_w) / 2, 18, label, unit, ICE)
         content += rect(12, 12, 3, 3, BLUE)
         save(f"links/{name}.svg", svg(content, h, label, width=w))
 
@@ -228,7 +228,7 @@ def navigation(profile, statistics=False):
     if statistics:
         links = [("repositories", f'https://github.com/{profile["username"]}?tab=repositories', "Explorar meus repositórios"),
                  ("statistics", "docs/maintenance.md#estatísticas", "Como as estatísticas são calculadas")]
-    anchors = [f'<a href="{escape(url, quote=True)}"><img src="assets/links/{name}.svg" width="156" height="52" alt="{escape(label, quote=True)}"></a>'
+    anchors = [f'<a href="{escape(url, quote=True)}"><img src="assets/links/{name}.svg" width="136" height="48" alt="{escape(label, quote=True)}"></a>'
                for name, url, label in links]
     return '<p align="center">\n  ' + '\n  '.join(anchors) + '\n</p>'
 

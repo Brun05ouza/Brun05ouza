@@ -22,7 +22,7 @@ def main():
 *{{box-sizing:border-box}}body{{margin:0;background:#0d1117;color:#d1d9e0;font:16px/1.65 Verdana,sans-serif}}
 main{{max-width:1026px;margin:32px auto;padding:32px;border:1px solid #30363d;border-radius:6px}}
 a{{color:#a8d4ff;text-decoration:none}}p{{margin:16px 0 24px}}img{{max-width:100%;height:auto}}picture{{display:block}}picture>img{{display:block;width:100%}}p[align="center"]{{text-align:center;line-height:1;margin:16px 0 32px}}p[align="center"] a{{display:inline-block;margin:0 0 4px}}a:focus-visible{{outline:2px solid #7775ff;outline-offset:4px}}
-@media(max-width:600px){{main{{margin:0;padding:16px;border:0}}body{{font-size:15px}}}}
+@media(max-width:600px){{main{{margin:0;padding:40px;border:0}}body{{font-size:15px}}}}
 </style><main>{body}</main></html>'''
     (OUT / "index.html").write_text(page_source, encoding="utf-8")
     with sync_playwright() as p:

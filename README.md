@@ -8,10 +8,10 @@
 </a>
 
 <p align="center">
-  <a href="https://brunosouza.dev.br"><img src="assets/links/portfolio.svg" width="156" height="52" alt="Visitar meu portfólio"></a>
-  <a href="https://github.com/Brun05ouza"><img src="assets/links/github.svg" width="156" height="52" alt="Meu perfil no GitHub"></a>
-  <a href="https://www.linkedin.com/in/bruno-soares-souza/"><img src="assets/links/linkedin.svg" width="156" height="52" alt="Conectar no LinkedIn"></a>
-  <a href="mailto:brunosouzagithub2003@gmail.com"><img src="assets/links/email.svg" width="156" height="52" alt="Conversar por e-mail"></a>
+  <a href="https://brunosouza.dev.br"><img src="assets/links/portfolio.svg" width="136" height="48" alt="Visitar meu portfólio"></a>
+  <a href="https://github.com/Brun05ouza"><img src="assets/links/github.svg" width="136" height="48" alt="Meu perfil no GitHub"></a>
+  <a href="https://www.linkedin.com/in/bruno-soares-souza/"><img src="assets/links/linkedin.svg" width="136" height="48" alt="Conectar no LinkedIn"></a>
+  <a href="mailto:brunosouzagithub2003@gmail.com"><img src="assets/links/email.svg" width="136" height="48" alt="Conversar por e-mail"></a>
 </p>
 
 <picture>
@@ -82,8 +82,8 @@
 </picture>
 
 <p align="center">
-  <a href="https://github.com/Brun05ouza?tab=repositories"><img src="assets/links/repositories.svg" width="156" height="52" alt="Explorar meus repositórios"></a>
-  <a href="docs/maintenance.md#estatísticas"><img src="assets/links/statistics.svg" width="156" height="52" alt="Como as estatísticas são calculadas"></a>
+  <a href="https://github.com/Brun05ouza?tab=repositories"><img src="assets/links/repositories.svg" width="136" height="48" alt="Explorar meus repositórios"></a>
+  <a href="docs/maintenance.md#estatísticas"><img src="assets/links/statistics.svg" width="136" height="48" alt="Como as estatísticas são calculadas"></a>
 </p>
 
 <picture>
@@ -92,8 +92,8 @@
 </picture>
 
 <p align="center">
-  <a href="https://brunosouza.dev.br"><img src="assets/links/portfolio.svg" width="156" height="52" alt="Visitar meu portfólio"></a>
-  <a href="https://github.com/Brun05ouza"><img src="assets/links/github.svg" width="156" height="52" alt="Meu perfil no GitHub"></a>
-  <a href="https://www.linkedin.com/in/bruno-soares-souza/"><img src="assets/links/linkedin.svg" width="156" height="52" alt="Conectar no LinkedIn"></a>
-  <a href="mailto:brunosouzagithub2003@gmail.com"><img src="assets/links/email.svg" width="156" height="52" alt="Conversar por e-mail"></a>
+  <a href="https://brunosouza.dev.br"><img src="assets/links/portfolio.svg" width="136" height="48" alt="Visitar meu portfólio"></a>
+  <a href="https://github.com/Brun05ouza"><img src="assets/links/github.svg" width="136" height="48" alt="Meu perfil no GitHub"></a>
+  <a href="https://www.linkedin.com/in/bruno-soares-souza/"><img src="assets/links/linkedin.svg" width="136" height="48" alt="Conectar no LinkedIn"></a>
+  <a href="mailto:brunosouzagithub2003@gmail.com"><img src="assets/links/email.svg" width="136" height="48" alt="Conversar por e-mail"></a>
 </p>
